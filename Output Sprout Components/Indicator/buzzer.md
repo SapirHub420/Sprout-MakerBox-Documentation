@@ -3,11 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/LED Blue.png" alt="LED Blue" width="190">
-  <img src="images/LED Green.png" alt="LED Green" width="190">
-  <img src="images/LED Red.png" alt="LED Red" width="190">
-  <img src="images/LED White.png" alt="LED White" width="190">
-  <img src="images/LED Yellow.png" alt="LED Yellow" width="190">
+  <img src="images/Tone Buzzer.png" alt="LED Blue" width="300">
 </p>
 
 The **SprouT Buzzer** is an output module that makes sound. It is often used to give a warning, confirm a button press, or show that a system is running.

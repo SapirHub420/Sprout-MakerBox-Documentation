@@ -1,6 +1,15 @@
 # SprouT LED
 
 ## Overview
+
+<p align="center">
+  <img src="images/LED Blue.png" alt="LED Blue" width="190">
+  <img src="images/LED Green.png" alt="LED Green" width="190">
+  <img src="images/LED Red.png" alt="LED Red" width="190">
+  <img src="images/LED White.png" alt="LED White" width="190">
+  <img src="images/LED Yellow.png" alt="LED Yellow" width="190">
+</p>
+
 The **SprouT LED** is a simple output component used to show status, create light effects, or indicate activity in a project. It is one of the easiest components to learn in electronics because it can be controlled directly by a microcontroller.
 
 It is commonly used in beginner projects such as blinking lights, alarms, indicators, and visual feedback systems.
