@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/PIRSensor.png" alt="SprouT Presence Sensor" width="350">
+  <img src="images/PIRSensor.png" alt="SprouT Presence Sensor" width="300">
 </p>
 
 The **SprouT Presence Sensor** is an input sensor module used to detect motion or human presence using a PIR sensor.

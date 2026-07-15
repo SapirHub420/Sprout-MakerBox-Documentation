@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/LDRSensor.png" alt="SprouT Light Sensor" width="350">
+  <img src="images/LDRSensor.png" alt="SprouT Light Sensor" width="300">
 </p>
 
 The **SprouT Light Sensor** is an input sensor module used to detect the brightness level of the surrounding environment.

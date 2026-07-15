@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/IRSensor.png" alt="SprouT Infrared Sensor" width="350">
+  <img src="images/IRSensor.png" alt="SprouT Infrared Sensor" width="300">
 </p>
 
 The **SprouT Infrared Sensor** is an input sensor module used to detect objects using infrared light.

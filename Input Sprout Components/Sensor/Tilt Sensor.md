@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/TiltSensor.png" alt="SprouT Tilt Sensor" width="350">
+  <img src="images/TiltSensor.png" alt="SprouT Tilt Sensor" width="300">
 </p>
 
 The **SprouT Tilt Sensor** is an input sensor module used to detect whether an object has been tilted or moved from its normal position.

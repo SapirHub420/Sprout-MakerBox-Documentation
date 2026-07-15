@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/UltrasonicSensor.png" alt="SprouT Ultrasonic Sensor" width="400">
+  <img src="images/UltrasonicSensor.png" alt="SprouT Ultrasonic Sensor" width="300">
 </p>
 
 The **SprouT Ultrasonic Sensor** is an input sensor module used to measure distance.

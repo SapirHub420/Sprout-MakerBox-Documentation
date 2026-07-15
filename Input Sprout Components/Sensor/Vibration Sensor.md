@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/VibrationSensor.png" alt="SprouT Vibration Sensor" width="350">
+  <img src="images/VibrationSensor.png" alt="SprouT Vibration Sensor" width="300">
 </p>
 
 The **SprouT Vibration Sensor** is an input sensor module used to detect vibration, shaking, knocking, impact, or movement.

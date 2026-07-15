@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/SoundSensor.png" alt="SprouT Sound Sensor" width="350">
+  <img src="images/SoundSensor.png" alt="SprouT Sound Sensor" width="300">
 </p>
 
 The **SprouT Sound Sensor** is an input sensor module used to detect sound level or sudden sound events.
