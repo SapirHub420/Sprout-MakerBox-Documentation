@@ -2,8 +2,6 @@
 
 ## 1. Introduction
 
-This guide is a simple beginner-friendly manual for learning how to use an Arduino Nano-compatible microcontroller. It is written like a wiki page so it is easy to read, understand, and follow.
-
 An Arduino Nano-compatible board is a small programmable device that can control lights, sensors, motors, and many other electronic parts. It is great for beginners because it is small, affordable, and easy to connect.
 
 ---
@@ -12,11 +10,11 @@ An Arduino Nano-compatible board is a small programmable device that can control
 
 By the end of this guide, you will be able to:
 
-- understand what an Arduino Nano-compatible board is
-- identify the main parts of the board
-- connect the board safely to a computer and components
-- upload a simple program
-- run a basic project using software such as PictoBlox
+- To understand what an Arduino Nano-compatible board is
+- To identify the main parts of the board
+- To connect the board safely to a computer and components
+- To upload a simple program
+- To run a basic project using software such as PictoBlox
 
 ---
 
@@ -24,23 +22,10 @@ By the end of this guide, you will be able to:
 
 There are several ways to program an Arduino Nano-compatible board.
 
-### Option 1: Arduino IDE
-- Best for beginners who want to use standard Arduino programming
-- Works well for simple projects
-- Uses a simple text-based coding style
-
 ### Option 2: PictoBlox
 - Best for children and visual learners
 - Uses blocks instead of text
 - Makes coding easier by showing actions visually
-
-### Option 3: Other tools
-- Some users may also use other coding platforms depending on their project needs
-
-### Recommended choice for beginners
-For children and first-time learners, PictoBlox is a very friendly choice because it makes programming feel like building with blocks.
-
----
 
 ## 4. Setup - Wiring Diagram and Step by Step
 
@@ -61,19 +46,6 @@ For children and first-time learners, PictoBlox is a very friendly choice becaus
 
 ### Basic wiring diagram
 
-```text
-Arduino Nano-Compatible Board
-+---------------------------+
-|         USB Port          |
-|                           |
-|  D13  D12  D11  D10  D9   |
-|  D8   D7   D6   D5   D4   |
-|  GND  RST  RX   TX   5V   |
-|  GND  VIN  A0   A1   A2   |
-+---------------------------+
-
-LED connection:
-Arduino D13  -> 220Ω resistor -> LED -> GND
 ```
 
 ### Step-by-step setup
