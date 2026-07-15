@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="C:\Users\user\OneDrive - Universiti Teknologi MARA\Documents\Github\Sprout-MakerBox-Documentation\images\PNG - TOP - SprouT - SENANG - Motor Driver.png" alt="SprouT Infrared Sensor" width="350">
+  <img src="Sprout-MakerBox-Documentation\images\PNG - TOP - SprouT - SENANG - Motor Driver.png" alt="SprouT Infrared Sensor" width="350">
 </p>
 
 - The motor driver is a small control module used to operate motors safely and efficiently.
