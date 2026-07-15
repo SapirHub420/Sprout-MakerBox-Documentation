@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="images/AirQuality.png" alt="SprouT Air Quality Sensor" width="350">
+  <img src="images/AirQuality.png" alt="SprouT Air Quality Sensor" width="300">
 </p>
 
 The **SprouT Air Quality Sensor** is an input sensor module used to detect changes in air condition or gas concentration around the sensor.
