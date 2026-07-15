@@ -2,6 +2,10 @@
 
 ## 1. Introduction
 
+<p align="center">
+  <img src="../images/Nano.png" width="300">
+</p>
+
 The Sprout Maker Box's controller is an Arduino Nano-compatible board (ATmega328P, CH340 USB chip). It has a small onboard LED built right onto the board, connected to digital pin 13. This is the easiest way to check that the board works and that PictoBlox can talk to it.
 
 ---
