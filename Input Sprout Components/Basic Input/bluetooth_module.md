@@ -686,4 +686,3 @@ Yes, if your board and PictoBlox setup support serial communication or Bluetooth
 ---
 
 *Last Updated: July 2026*  
-*Status: Wiki-style component documentation*

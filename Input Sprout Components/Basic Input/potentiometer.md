@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="../images/potentiometer.png" alt="SprouT Potentiometer" width="300">
+  <img src="images/potentiometer.png" alt="SprouT Potentiometer" width="300">
 </p>
 
 The **SprouT Potentiometer** is an adjustable analog input module. It allows users to control a value by turning a knob.
@@ -261,4 +261,3 @@ Yes. A potentiometer is useful for changing values such as brightness, speed, de
 ---
 
 *Last Updated: July 2026*  
-*Status: Wiki-style component documentation*

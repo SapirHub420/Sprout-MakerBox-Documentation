@@ -158,4 +158,3 @@ As part of the Sprout MakerBox plug-and-play ecosystem, the Push Button integrat
 ---
 
 *Last Updated: July 2026*  
-*Status: Documentation Framework Complete - Awaiting Voltage & Electrical Specifications*
