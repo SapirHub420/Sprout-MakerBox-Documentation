@@ -3,16 +3,16 @@
 ## Overview
 
 <p align="center">
-  <img src="images/LCD I2C 1602 - Front.png" alt="LCD I2C 1602 - Front" width="190">
+  <img src="images/LCD I2C 1602 - Front.png" alt="LCD I2C 1602 - Front" width="250">
 </p>
 
-**Front**
+<p align="center"><b>Front</b></p>
 
 <p align="center">
-  <img src="images/LCD I2C 1602 - Back.png" alt="LCD I2C 1602 - Back" width="190">
+  <img src="images/LCD I2C 1602 - Back.png" alt="LCD I2C 1602 - Back" width="250">
 </p>
 
-**Back**
+<p align="center"><b>Back</b></p>
 
 The **SprouT LCD** is an output display module used to show text, numbers, and simple messages in electronics projects. It is very useful when you want a project to display information such as temperature, status, time, or sensor values.
 
