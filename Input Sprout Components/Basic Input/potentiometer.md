@@ -3,7 +3,7 @@
 ## Overview
 
 <div style="display: flex; gap: 15px; justify-content: center;">
-<img src="images/Potentionmeter.png" alt="Yellow Push Button" width="200">
+<img src="images/Potentionmeter.png" alt="Potentiometer" width="200">
 </div>
 
 The Sprout Potentiometer is a user-friendly variable resistor used to provide an adjustable analog voltage. Turn the knob to change the output voltage, which can be read by any analog input on the Sprout MakerBox baseboard.
