@@ -484,4 +484,3 @@ Yes. For better results, record the normal clean-air value first and set a thres
 ---
 
 *Last Updated: July 2026*  
-*Status: Wiki-style component documentation*

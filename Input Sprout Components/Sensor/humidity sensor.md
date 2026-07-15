@@ -559,4 +559,3 @@ No. Do not expose it directly to water.
 ---
 
 *Last Updated: July 2026*  
-*Status: Wiki-style component documentation*
