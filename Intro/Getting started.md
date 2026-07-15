@@ -1,123 +1,100 @@
-# Getting Started with the Arduino Nano-Compatible Microcontroller
+# Getting Started with the microcontroller (Arduino Nano-Compatible)
 
 ## 1. Introduction
 
-An Arduino Nano-compatible board is a small programmable device that can control lights, sensors, motors, and many other electronic parts. It is great for beginners because it is small, affordable, and easy to connect.
+The Sprout Maker Box's controller is an Arduino Nano-compatible board (ATmega328P, CH340 USB chip). It has a small onboard LED built right onto the board, connected to digital pin 13. This is the easiest way to check that the board works and that PictoBlox can talk to it.
 
 ---
 
 ## 2. Objectives
 
-By the end of this guide, you will be able to:
+By the end of this guide, readers will be able to:
 
-- To understand what an Arduino Nano-compatible board is
-- To identify the main parts of the board
-- To connect the board safely to a computer and components
-- To upload a simple program
-- To run a basic project using software such as PictoBlox
+1.Install PictoBlox
+2.Connect the microcontroller to a computer with a USB cable
+3.Build a simple block code that turns on the onboard LED
 
 ---
 
 ## 3. Platform Choices
 
-There are several ways to program an Arduino Nano-compatible board.
+This board is an Arduino Nano-compatible controller, so this guide uses the Arduino platform in PictoBlox.
 
-### Option 2: PictoBlox
-- Best for children and visual learners
-- Uses blocks instead of text
-- Makes coding easier by showing actions visually
+| Platform | Status |
+|---------:|:------|
+| Arduino | Used in this guide — board = Arduino Nano |
+| ESP32 / micro:bit / RPi Pico | Not applicable — not included in the Sprout Maker Box |
+
+
+---
 
 ## 4. Setup - Wiring Diagram and Step by Step
 
 ### What you need
 
-- Arduino Nano-compatible board
+- Sprout base board with Arduino Nano
 - USB cable
 - Computer
-- Breadboard (optional)
-- LED
-- Resistor (220Ω)
-- Jumper wires
-
-### Important safety note
-- Always unplug the board before changing wires
-- Do not connect components incorrectly
-- Make sure the board is powered only through the USB cable
 
 ### Basic wiring diagram
 
+```text
+Arduino Nano-Compatible Board
++---------------------------+
+|         USB Port          |
+|                           |
+|  D13  D12  D11  D10  D9   |
+|  D8   D7   D6   D5   D4   |
+|  GND  RST  RX   TX   5V   |
+|  GND  VIN  A0   A1   A2   |
++---------------------------+
+
+LED connection:
+Arduino D13  -> 220Ω resistor -> LED -> GND
 ```
 
 ### Step-by-step setup
 
-1. Connect the Arduino Nano-compatible board to your computer using the USB cable.
-2. Wait for the computer to recognize the board.
-3. Place the LED on the breadboard.
-4. Connect one leg of the LED to the resistor.
-5. Connect the other side of the resistor to pin D13 on the board.
-6. Connect the LED’s other leg to GND.
-7. Open PictoBlox or Arduino IDE.
-8. Select the correct board type and port.
-9. Upload your first program.
+1. Install PictoBlox: go to thestempedia.com/pictoblox-desktop and download the version for your computer (Windows/macOS), then install it.
+2. Connect the microcontroller: plug the USB cable into the Arduino Nano board and the other end into your computer.
+3. Open PictoBlox, go to the Boards tab, and select "Arduino Nano."
+4. Select the COM port for your board and click Connect.
 
-### Simple wiring explanation
-Think of the board as the brain. The wires are the nerves. The LED is the body part that reacts.
-
----
 
 ## 5. Coding - PictoBlox
 
 PictoBlox is a block-based coding platform that is easy for beginners to understand.
 
-### How to start with PictoBlox
+Steps to build the block code:
 
-1. Open PictoBlox on your computer.
-2. Create a new project.
-3. Choose the board type as Arduino Nano-compatible.
-4. Add a block for the LED.
-5. Turn the LED on and off with delays.
-
-### Example simple program
-
-```text
-When Green Flag clicked
-Set LED on pin D13 to ON
-Wait 1 second
-Set LED on pin D13 to OFF
-Wait 1 second
-Repeat forever
-```
+1. Go to the Blocks workspace.
+2. From the Pins category, drag out a "digital write pin (13) value (HIGH)" block into the workspace.
+3. Click the block (or the green flag) to run it and upload it to the board.
 
 ### What this program does
 - The LED turns on
 - It waits for one second
 - It turns off
 - It repeats again and again
-
-This is a great first project because it teaches the basic idea of input, output, and timing.
-
 ---
 
 ## 6. Simulation
 
 Simulation means testing your project on the screen before using real hardware.
 
-### Why simulation is helpful
-- It helps beginners learn without making mistakes
-- It lets you see what the code will do
-- It is safer and faster for practice
+## 7. Results
 
-### In PictoBlox
-- You can run the program in simulation mode
-- You can check whether the LED turns on and off as expected
-- If something does not work, you can fix the code before connecting real wires
+Expected outcome:
 
-### Example simulation idea
-Imagine the LED is a tiny lamp. When the code says “turn on,” the lamp lights up. When the code says “turn off,” the lamp goes dark.
+The onboard LED next to pin 13 on the board turns on and stays on.
+[ Insert photo of the onboard LED lit up on the real board ]
 
----
+Troubleshooting:
 
-## 7. Conclusion
+Board not showing in PictoBlox → check the USB cable is connected and try a different COM port.
+LED doesn't turn on → make sure the block ran without errors and pin 13 was used.
+
+## 8. Conclusion
 
 You have now learned the basics of using an Arduino Nano-compatible microcontroller. You know what it is, how it can be connected, and how simple programs can make it do useful things.
 
