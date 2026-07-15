@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Sprout Push Button Component](../../images/button-component.png)
+![Sprout Push Button Component](images/button-component.png)
 
 The **Sprout Push Button** is a fundamental input component in the Sprout MakerBox ecosystem designed for creating interactive projects. It serves as a simple yet powerful digital input device that detects when a button is pressed or released, making it ideal for user interaction in countless applications.
 
