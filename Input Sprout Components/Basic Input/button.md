@@ -2,11 +2,11 @@
 
 ## Overview
 
-<div style="display: flex; gap: 15px; justify-content: center;">
-<img src="images/YellowPushButton.png" alt="Yellow Push Button" width="200">
-<img src="images/RedPushButton.png" alt="Red Push Button" width="200">
-<img src="images/BluePushButton.png" alt="Blue Push Button" width="200">
-</div>
+<p align="center">
+<img src="images/RedPushButton.png" alt="Potentiometer" width="200" style="display:block; margin:0 auto;">
+<img src="images/BluePushButton.png" alt="Potentiometer" width="200" style="display:block; margin:0 auto;">
+<img src="images/YellowPushButton.png" alt="Potentiometer" width="200" style="display:block; margin:0 auto;">
+</p>
 
 The **Sprout Push Button** is a fundamental input component in the Sprout MakerBox ecosystem designed for creating interactive projects. It serves as a simple yet powerful digital input device that detects when a button is pressed or released, making it ideal for user interaction in countless applications.
 
