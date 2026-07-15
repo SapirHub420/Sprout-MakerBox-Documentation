@@ -3,13 +3,13 @@
 ## Overview
 
 <p align="center">
-  <img src="images/LCD I2C 1602 - Front.png" alt="LCD I2C 1602 - Front" width="250">
+  <img src="images/LCD I2C 1602 - Front.png" alt="LCD I2C 1602 - Front" width="350">
 </p>
 
 <p align="center"><b>Front</b></p>
 
 <p align="center">
-  <img src="images/LCD I2C 1602 - Back.png" alt="LCD I2C 1602 - Back" width="250">
+  <img src="images/LCD I2C 1602 - Back.png" alt="LCD I2C 1602 - Back" width="350">
 </p>
 
 <p align="center"><b>Back</b></p>
