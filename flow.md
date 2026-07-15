@@ -1,57 +1,67 @@
 # Product Wiki Structure
 
-The product wiki should include the following sections:
+## Overview
+- Brief introduction to the product.
+- Purpose and intended use.
 
-## 1. Title
-- Project or product name.
+## Description
+- Detailed explanation of the product.
+- Key functions and capabilities.
 
-## 2. Introduction
-- Brief overview of the product and its purpose.
+## Features
+- Main features and advantages of the product.
+- Highlight unique functionalities.
 
-## 3. Objectives
-- Clearly state the goals and intended outcomes of the project.
+## Specifications
+- Technical specifications.
+- Electrical and physical characteristics.
 
-## 4. Platform Selection
-Discuss the available platforms:
-- Arduino
-- ESP32
-- micro:bit
-- Raspberry Pi Pico
+## Pinout
+- Pin descriptions and functions.
+- Pinout diagram and connection details.
 
-> **Note:** Focus primarily on the Arduino implementation.
+## Plug and Play with SprouT Baseboard
+- Compatibility with the SprouT Baseboard.
+- Setup instructions and connection guide.
 
-## 5. Setup
+## How It Works
+- Explanation of the product's working principle.
+- System architecture or operational flow.
 
-### Hardware Components Required
-List all required hardware components.
+## Arduino Example
 
-### Wiring Diagram
-Provide the circuit or wiring diagram.
+### Hardware Setup
+- Required components.
+- Wiring diagram.
 
-### Step-by-Step Setup Instructions
-1. Connect the components according to the wiring diagram.
-2. Verify all connections.
-3. Power up the system.
-4. Test the hardware setup.
+### Arduino Code
+- Example code.
+- Code explanation.
 
-## 6. Coding
+### Results
+- Expected output and demonstration.
 
-### PictoBlox Program
-- Develop the program using PictoBlox.
-- Include screenshots of the code blocks where necessary.
+## ESP32 Example
 
-### Code Explanation
-- Explain the logic and functionality of each section of the program.
+### Hardware Setup
+- Required components.
+- Wiring diagram.
 
-## 7. Simulation / Actual Results
+### ESP32 Code
+- Example code.
+- Code explanation.
 
-### Simulation Results
-- Present simulation outputs and observations.
+### Results
+- Expected output and demonstration.
 
-### Real-World Results
-- Document actual testing results, performance, and findings.
+## Applications
+- Common use cases.
+- Project ideas and real-world applications.
 
-## 8. Conclusion *(Optional)*
-- Summarize the project's outcomes.
-- Highlight key findings and lessons learned.
-- Provide recommendations for future improvements.
+## Troubleshooting
+- Common issues and solutions.
+- Debugging tips.
+
+## FAQ
+### Frequently Asked Questions
+- Common questions and answers about the product.
