@@ -44,27 +44,15 @@ This board is an Arduino Nano-compatible controller, so this guide uses the Ardu
 - USB cable
 - Computer
 
-### Basic wiring diagram
-
-```text
-Arduino Nano-Compatible Board
-+---------------------------+
-|         USB Port          |
-|                           |
-|  D13  D12  D11  D10  D9   |
-|  D8   D7   D6   D5   D4   |
-|  GND  RST  RX   TX   5V   |
-|  GND  VIN  A0   A1   A2   |
-+---------------------------+
-
-LED connection:
-Arduino D13  -> 220Ω resistor -> LED -> GND
-```
-
 ### Step-by-step setup
 
 1. Install PictoBlox: go to thestempedia.com/pictoblox-desktop and download the version for your computer (Windows/macOS), then install it.
 2. Connect the microcontroller: plug the USB cable into the Arduino Nano board and the other end into your computer.
+
+<p align="center">
+  <img src="plug.png" width="300">
+</p>
+
 3. Open PictoBlox, go to the Boards tab, and select "Arduino Nano."
 
 <p align="center">
@@ -73,6 +61,13 @@ Arduino D13  -> 220Ω resistor -> LED -> GND
 
 4. Select the COM port for your board and click Connect.
 
+<p align="center">
+  <img src="NIGGA.png" width="300">
+</p>
+
+<p align="center">
+  <img src="com.png" width="300">
+</p>
 
 ## 5. Coding - PictoBlox
 
