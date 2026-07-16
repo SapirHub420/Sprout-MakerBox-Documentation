@@ -1,6 +1,12 @@
 # Relay
 
 ## Overview
+
+<p align="center">
+  <img src="images\PNG - TOP - SprouT - SENANG - Relay 1-Channel.png" alt="SprouT Infrared Sensor" width="300">
+</p>
+
+
 - A relay is an electrically controlled switch used to turn devices on and off.
 - It is useful when a microcontroller needs to control a higher-power device.
 - Relays are often used in home automation, safety systems, and simple control projects.
