@@ -1,12 +1,16 @@
 # Getting Started with the microcontroller (Arduino Nano-Compatible)
 
-## 1. Introduction
-
 <p align="center">
   <img src="Nano.png" width="300">
 </p>
 
+## 1. Introduction
+
 The Sprout Maker Box's controller is an Arduino Nano-compatible board (ATmega328P, CH340 USB chip). It has a small onboard LED built right onto the board, connected to digital pin 13. This is the easiest way to check that the board works and that PictoBlox can talk to it.
+
+<p align="center">
+  <img src="ledonnano.png" width="300">
+</p>
 
 ---
 
@@ -62,6 +66,11 @@ Arduino D13  -> 220Ω resistor -> LED -> GND
 1. Install PictoBlox: go to thestempedia.com/pictoblox-desktop and download the version for your computer (Windows/macOS), then install it.
 2. Connect the microcontroller: plug the USB cable into the Arduino Nano board and the other end into your computer.
 3. Open PictoBlox, go to the Boards tab, and select "Arduino Nano."
+
+<p align="center">
+  <img src="pointing.png" width="300">
+</p>
+
 4. Select the COM port for your board and click Connect.
 
 
